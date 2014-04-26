@@ -3,7 +3,7 @@
 
 ###Automate GNU screens with simple yet useful API's###
 
-`screenapi` is python module which provides screen API's to automate our task of creating local setups.  It.s simple set of 4 API.s that can save time spent on bringing up setups.
+`screenapi` is python module which provides screen API's to automate our task of creating local setups.  It.s simple set of 3 API.s that can save time spent on bringing up setups.
 
 Have included a sample script.
 
@@ -26,9 +26,6 @@ It basically provides API's to
 
             3>  run_cmd_screen(sname, id, command)
                   run command over a particular window of a screen
-
-            4> clean_vrs(sname, id)
-                  clear all vrs and interface
 
 ###How can i make my scripts?###
 
