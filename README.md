@@ -33,7 +33,7 @@ It basically provides API's to
 ###How can i make my scripts?###
 
 
-Run Sample Script
+Run Sample Script and figure out
             
             python2.4 screenApiTest.py 
 
